@@ -1,0 +1,4 @@
+var name = 'tgdf'
+var letter = `testgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvctestgdfgwrregsgfdsvc`
+console.log(letter)
+
