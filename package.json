@@ -1,5 +1,26 @@
 {
   "dependencies": {
-    "pm2": "^5.2.0"
-  }
+    "pm2": "^5.2.0",
+    "sanitize-html": "^2.7.2"
+  },
+  "name": "nodejs_study",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdh3543/node_js_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdh3543/node_js_study/issues"
+  },
+  "homepage": "https://github.com/kdh3543/node_js_study#readme",
+  "description": ""
 }
